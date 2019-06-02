@@ -1,0 +1,13 @@
+.hammer {
+    width:50%;
+}
+body {
+    background:black;
+    color:green;
+}
+button {
+    color:blue;
+    background:gold;
+    border:gold;
+    font-size:20px;
+}
